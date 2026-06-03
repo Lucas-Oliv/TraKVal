@@ -1,5 +1,4 @@
-# TraKVal
-Projeto de conclusão de curso
+# Projeto de conclusão de curso
 # 📊 Valorant Tactical Analytics & VCT HUD Replay
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
