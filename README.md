@@ -1,4 +1,4 @@
-# Projeto de conclusão de curso
+# Projeto de conclusão de curso - O Projeto ainda nao foi colocado 100%, falta o retorno sobre o base de dados.
 # 📊 Valorant Tactical Analytics & VCT HUD Replay
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
