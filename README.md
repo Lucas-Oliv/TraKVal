@@ -1,5 +1,5 @@
 # Projeto de conclusão de curso - O Projeto ainda nao foi colocado 100%, falta o retorno sobre a base de dados.
-# 📊 Valorant Tactical Analytics & VCT HUD Replay
+# 📊 Valorant Tactical Analytics & HUD Replay
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
