@@ -15,7 +15,7 @@ Um ecossistema completo de análise de dados e reprodução tática para partida
 
 Este sistema foi arquitetado com foco em **Ciência de Dados** e Engenharia de Software para fornecer uma ferramenta analítica profunda. Ele atua em duas frentes principais:
 1.  **Dashboard Analítico:** Focado em métricas de performance, economia e eficiência tática (abates, sobrevivência, uso de habilidades e controle financeiro).
-2.  **Replay Tático (HUD VCT):** Um reprodutor visual em tempo real que mapeia as coordenadas dos jogadores (X, Y) e eventos (Kills, Spike Plant/Defuse) em um minimapa interativo, renderizado nativamente no navegador.
+2.  **Replay Tático:** Um reprodutor visual em tempo real que mapeia as coordenadas dos jogadores (X, Y) e eventos (Kills, Spike Plant/Defuse) em um minimapa interativo, renderizado nativamente no navegador.
 
 ---
 
@@ -27,7 +27,7 @@ Este sistema foi arquitetado com foco em **Ciência de Dados** e Engenharia de S
 *   **Estatísticas de Agentes:** Eficiência no uso de habilidades e geração de pontos de Ultimate.
 *   **Visualização de Dados:** Gráficos interativos renderizados de forma responsiva para facilitar a tomada de decisão.
 
-### 🎬 Módulo 2: Replay Tático (VCT HUD)
+### 🎬 Módulo 2: Replay Tático
 *   **Motor Geométrico de Mapa:** Conversão matemática de coordenadas brutas em posições escalonadas no Canvas HTML5, exibindo a movimentação precisa de todos os agentes.
 *   **Killfeed Inteligente:** Sistema anti-duplicação de eventos que consome a API oficial da Riot Games para exibir armas, habilidades e assistências dinamicamente.
 *   **Mecânica de Spike Realista:** Tracking de posse da Spike, barra de progresso de plant e cronômetro exato de detonação (45 segundos).
