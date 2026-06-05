@@ -51,8 +51,3 @@ O projeto adota uma arquitetura orientada a dados, garantindo fluidez mesmo no p
 ### Pré-requisitos
 *   **Python 3.9** ou superior.
 *   (Opcional) Ambiente virtual (venv/conda) configurado.
-
-### 1. Clonando o Repositório
-```bash
-git clone [https://github.com/SEU_USUARIO/nome-do-repositorio.git](https://github.com/SEU_USUARIO/nome-do-repositorio.git)
-cd nome-do-repositorio
