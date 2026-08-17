@@ -1,0 +1,15 @@
+# aqui vou fazer o sistema de escolher qual replay quer ver, e tantar de alguma forma mostra o uso de habilidades e juntar o radar tatico aqui de alguma forma bem feita
+# no proprito json ja tem as aquivos para as imagens, mas o da spike é por fora um outro arquivo que vou ter que pegar
+# Uma tela igual do deadlock de compracao de personagem funcao por funcao entre outros
+# criador de pegador de links dos replays
+# e um atualizador automatico das partidades novas, se tiver uma forma que nao fique ruim
+# trazer um overall de tudo, quais armas foram usadas naquela partida e quando e como- tipo o Dump com a judge quando que ele troce ela, em um full buy, mid buy ou eco
+# e junto trazer uma ferramenta de foca em 1 so player de um time e deixar todos os outro do outro time na tela
+
+
+# Pode ser para essa pagina so ou para o projeto todo, mas um hub com cada categoria separada, com caixa de americas, EMEA, Pacifico, China, Champions, Mastre com a separacao dentro por splite 1 e 2, 
+# e um all e dentro separa por ano ou all.
+# Usar alguma coisa assim https://statlocker.gg/profile/466609712/matches
+
+
+# talvez dentro do radar colocar um botao que leva para o replay daquela partida 
