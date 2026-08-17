@@ -51,3 +51,15 @@ O projeto adota uma arquitetura orientada a dados, garantindo fluidez mesmo no p
 ### Pré-requisitos
 *   **Python 3.9** ou superior.
 *   (Opcional) Ambiente virtual (venv/conda) configurado.
+
+## 📊 Dados
+
+Para que os scripts funcionem corretamente, os arquivos de dados `.csv` devem ser colocados dentro da pasta `/CSV/Dados_Limpos/`. Os nomes dos arquivos devem corresponder aos que estão definidos nos scripts, como:
+
+-   `01_vlr_matches_limpo.csv`
+-   `02_vlr_stats_gerais_limpo.csv`
+-   `03_telemetria_tatica_limpa.csv`
+-   `04_micro_posicionamento_limpo.csv`
+
+Para que o script do `Replay` funcionem corretamente, os arquivos de dados estão disponível aqui `[Replays](https://drive.google.com/file/d/1szuErq2FyzUb0rrPnOWhMtfIv9xwrhRe/view?usp=sharing)` devem ser colocados dentro da pasta `/Sitte/Replay/`.
+
