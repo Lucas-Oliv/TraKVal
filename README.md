@@ -61,5 +61,5 @@ Para que os scripts funcionem corretamente, os arquivos de dados `.csv` devem se
 -   `03_telemetria_tatica_limpa.csv`
 -   `04_micro_posicionamento_limpo.csv`
 
-Para que o script do `Replay` funcionem corretamente, os arquivos de dados estão disponível aqui `[Replays](https://drive.google.com/file/d/1szuErq2FyzUb0rrPnOWhMtfIv9xwrhRe/view?usp=sharing)` devem ser colocados dentro da pasta `/Sitte/Replay/`.
+Para que o script do `Replay` funcionem corretamente, os arquivos de dados estão disponível aqui `[Replays]()` devem ser colocados dentro da pasta `/Sitte/Replay/`.
 
